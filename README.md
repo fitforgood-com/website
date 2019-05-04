@@ -1,2 +1,3 @@
 # website
-the public website
+
+The public website for FFG
